@@ -4,7 +4,7 @@
 
 ### Array
 
-- [ ] Two Sum **(Easy)** - https://leetcode.com/problems/two-sum/
+- [x] Two Sum **(Easy)** - https://leetcode.com/problems/two-sum/
 - [ ] Best Time to Buy and Sell Stock **(Easy)** -
       https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - [ ] Contains Duplicate **(Easy)** - https://leetcode.com/problems/contains-duplicate/
